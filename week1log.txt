@@ -1,4 +1,6 @@
 11/3/25 - 11/9/25 (Week 1)
-* Create GitHub repo
-* Determine images that will be collected: 500 Ladybugs and 500 Bumblebees
-* Collected XX images for the dataset
+
+* Created GitHub repo
+* Determined to address issue in ImageNet-1k of poor distinction between interspecies breeds of animals
+* Wrote readme.md file addressing this issue by creating a dataset of 4 duck species (Mallard, Muscovy, Pekin, and Blue Swedish) and testing it with a ViT model
+
