@@ -1,0 +1,4 @@
+11/3/25 - 11/9/25 (Week 1)
+* Create GitHub repo
+* Determine images that will be collected: 500 Ladybugs and 500 Bumblebees
+* Collected XX images for the dataset
