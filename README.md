@@ -4,7 +4,7 @@ For example, 62% of the “jay” class of images in ImageNet-1k are of the blue
 of jay found around the world [1]. 
 
 To address this issue, 1000 images of five breeds of duck (200 each) will be compiled and a ViT model will be trained and tested with this novel dataset.
-The four breeds of duck that will be used in this project are Mallard, Muscovy, Pekin, Hookbill, and Blue Swedish.
+The five breeds of duck that will be used in this project are Mallard, Muscovy, Magpie, Hookbill, and Blue Swedish.
 A ViT model is being used in this project due to ViT models being able to capture both local and global features, which is beneficial when minute differences are key [2], like when comparing inter-species breeds.
 The ViT model used is a Keras model specifically built for image classification [3].
 
