@@ -1,3 +1,7 @@
 11/10/25 - 11/16/25 (Week 2)
 
-* 
+* Created datasets for remaining duck breeds (Black East Indiand, Blue Swedish, Hooded Merganser, Magpie, Muscovy, Orpington, Pekin, Welsh Harlequin, and Wood
+* 100 images for each duck breed
+* Cropped images to be 1:1 squares and labeled based on breed
+* Randomly split into 80/20 train/test sets (800 training / 200 testing)
+* Uploaded to Github
