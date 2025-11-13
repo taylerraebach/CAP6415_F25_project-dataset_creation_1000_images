@@ -2,6 +2,5 @@
 
 * Created GitHub repo
 * Determined to address issue in ImageNet-1k of poor distinction between interspecies breeds of animals
-* Wrote readme.md file addressing this issue by creating a dataset of 4 duck species (Mallard, Muscovy, Hookbill and Blue Swedish) and testing it with a ViT model
-* Created Mallard set of 250 images
-
+* Wrote readme.md file addressing this issue by creating a dataset of 10 duck species (100 images each)(Mallard, Muscovy, Blue Swedish, Black East Indian, Hooded Merganser, Magpie, Orpington, Pekin, Welsh Harlequin, and Wood) and testing it with a ViT model
+* Created Mallard set of 100 images
