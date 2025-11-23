@@ -1,0 +1,6 @@
+11/17/25 - 11/23/25 (Week 3)
+* Tested three SOTA models to see which worked the best for this dataset
+* EfficientNetB0, ConvNeXtTiny, and ViTImageClassifier were tested, with EfficientNetB0 performing the best
+* All models were pre-built from Keras
+* Code uploaded to GitHub
+* Achieved a testing accuracy of 97.0%
