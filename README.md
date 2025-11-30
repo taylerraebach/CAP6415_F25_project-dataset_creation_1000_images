@@ -5,7 +5,7 @@ of Jay found around the world [1].
 
 To address this issue, 1000 images of ten breeds of duck (100 each) will be compiled, and an SOTA model will be trained and tested with this novel dataset.
 The four breeds of duck that will be used in this project are Mallard, Muscovy, Blue Swedish, Black East Indian, Hooded Merganser, Magpie, Orpington, Pekin, Welsh Harlequin, and Wood.
-The EfficientNetB0 model is being used in this project due to this architecture being able to balance accuracy and efficiency. This model can also extract detailed and high-level features, making it ideal for subtle differences in the duck breeds.
+The EfficientNetB0 model is being used in this project due to this architecture being able to balance accuracy and efficiency. This model can also extract detailed and high-level features, making it ideal for subtle differences in the duck breeds [2].
 The EfficientNetB0 model used is a Keras model specifically built for image classification [3].
 
 * [1] A. S. Luccioni and D. Rolnick, “Bugs in the Data: How ImageNet Misrepresents Biodiversity,” arXiv preprint arXiv:2208.11695, 2022.
