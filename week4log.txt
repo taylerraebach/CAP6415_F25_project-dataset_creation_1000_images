@@ -1,7 +1,6 @@
 11/24/25 - 11/30/25 (Week 4)
 * Tested different parameters with EfficientNetB0 to achieve best results
 * Tried different image sizes, used 128x128 to achieve best results and runtime efficiency
-* Used pre-trained weights from ImageNet, which gave better results than without
 * Batch size of 8 was used, with 30 Epochs
 * Test accuracy of 40% was achieved
 * Code uploaded to GitHub
