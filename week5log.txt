@@ -1,4 +1,4 @@
 11/31/25 - 12/7/25 (Week 5)
 * Created a graph showing the accuracy by epoch and test accuracy
 * Added graph to results.pdf and briefly discussed results and future improvements
-* Recorded video demo and uploaded to YouTube: URL HERE
+* Recorded video demo and uploaded to YouTube: https://youtu.be/31d3xfc9CuA
